@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+/* toggle navbar */
+/* <nav class="navbar"><button class="navbar-toggler" type="button"
+data-bs-toggle="collapse"
+/* data-bs-target="#navbarToggle"><span class="navbar-toggler-icon"></span></button><div class="collapse" id="navbarToggle">< !-- Navbar Content Goes Here -- !></div></nav> */
+
+/* <Nav className="navbar"><button className="navbar-toggler" type="button"
+data-bs-toggle="collapse"
+
+data-bs-target="#navbarToggle"><span className="navbar-toggler-icon"></span></button><div className="collapse" id="navbarToggle"><NavMenu><NavLink to="/about">About </NavLink><NavLink to="/events" activestyle>Events </NavLink><NavLink to="/annual" activestyle>Annual Report </NavLink><NavLink to="/team" activestyle>Teams </NavLink><NavLink to="/blogs" activestyle>Blogs </NavLink><NavLink to="/sign-up" activestyle>Sign Up </NavLink> { */
+  /* Second Nav */
+/* } */
+
+  /* { */
+  /* <NavBtnLink to='/sign-in'>Sign In</NavBtnLink> */
+/* } */
+
+/* </NavMenu><NavBtn><NavBtnLink to="/signin">Sign In </NavBtnLink></NavBtn></div></Nav> */
